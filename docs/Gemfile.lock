@@ -227,7 +227,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.14.4)
+    minitest (5.17.0)
     multipart-post (2.1.1)
     net-ftp (0.1.2)
       net-protocol
